@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @HugoGW (Hugo ALEXANDRE from France), I'm 23 years old and i'm looking for a PhD thesis in the field of gravitational waves.
+- 👋 Hi, I’m @HugoGW (Hugo ALEXANDRE from France), I'm 24 years old and i'm looking for a PhD thesis in the field of gravitational waves.
 - 🔭 I’m currently working on gravitational waves (gravitational background) and cosmology (internships) but next step would be a PhD thesis.
 - 🌱 I’m currently learning to improve my Python skills in simulation as I would like to work on gravitational wave simulation and modeling (CBC, MSP...).
 - 👯 I’m looking to collaborate on labs that worked on GW.
