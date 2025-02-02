@@ -1,10 +1,22 @@
-### Hi there 👋
+# Hi there 👋  
 
-- 👋 Hi, I’m @HugoGW (Hugo ALEXANDRE from France), I'm 24 years old and i'm looking for a PhD thesis in the field of gravitational waves.
-- 🔭 I’m currently working on gravitational waves (gravitational background) and cosmology (internships) but next step would be a PhD thesis.
-- 🌱 I’m currently learning to improve my Python skills in simulation as I would like to work on gravitational wave simulation and modeling (CBC, MSP...).
-- 👯 I’m looking to collaborate on labs that worked on GW.
-- 💬 Ask me about whatever you want :)
-- 📫 You can reach me on my mail : hugoalexandre127@gmail.com
-- ⚡ Fun fact: I'm french and i love wine, cheese and baguette bread which is quite common in France (yeah, we embody our stereotypes) :/
---> I also have a tiktok account : @1minute2pħysique. I posted content about (astro)physics (demonstrations of equations, fun facts etc.)
+## 🚀 About Me  
+
+I'm **Hugo Alexandre**, a **25-year-old physicist from France**, currently looking for a **PhD thesis in the field of gravitational waves**.  
+I have a strong background in **theoretical physics, numerical physics, and fundamental physics**.  
+
+## 🎯 Interests & Goals  
+
+- 🔭 **Research Focus:** Gravitational waves (CBC, MSP...), simulations, and modeling  
+- 🖥️ **Skills:** Numerical simulations, computational physics, Python, Fortran  
+- 🌱 **Currently Improving:** Python for advanced simulations  
+- 👯 **Looking to Collaborate On:** Research projects related to gravitational waves  
+
+## 📬 Contact  
+
+- 📩 **Email:** [hugoalexandre127@gmail.com](mailto:hugoalexandre127@gmail.com)  
+- 🎥 **TikTok:** [@1minute2pħysique](https://www.tiktok.com/@1minute2pħysique) (I post physics content: equation derivations, fun facts, etc.)  
+
+## ⚡ Fun Fact  
+
+🇫🇷 I'm **French**, and yes, I love **wine, cheese, and baguette bread**—living up to the stereotype! 🥖🍷🧀  
