@@ -2,13 +2,13 @@
 
 ## 🚀 About Me  
 
-I'm **Hugo Alexandre**, a **25-year-old physicist from France**, currently looking for a **PhD thesis in the field of gravitational waves**.  
+I'm **Hugo Alexandre**, a **25-year-old physics student from France**, currently looking for a **PhD thesis in the field of gravitational waves**.  
 I have a strong background in **theoretical physics, numerical physics, and fundamental physics**.  
 
 ## 🎯 Interests & Goals  
 
 - 🔭 **Research Focus:** Gravitational waves (CBC, MSP...), simulations, and modeling  
-- 🖥️ **Skills:** Numerical simulations, computational physics, Python, Fortran  
+- 🖥️ **Skills:** Numerical simulations, computational physics, Python (and a bit about Fortran) 
 - 🌱 **Currently Improving:** Python for advanced simulations  
 - 👯 **Looking to Collaborate On:** Research projects related to gravitational waves  
 
