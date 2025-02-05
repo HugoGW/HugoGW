@@ -24,6 +24,16 @@ I have a strong background in **theoretical physics, numerical physics, and fund
 - 🌱 **Currently Improving:** Python for advanced simulations  
 - 👯 **Looking to Collaborate On:** Research projects related to gravitational waves  
 
+## 📊 GitHub Stats  
+
+<div align="center">
+
+![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoAlexandre&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=HugoAlexandre&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAlexandre&layout=compact&theme=tokyonight)  
+
+</div>
+
 ## 📬 Contact  
 
 - 📩 **Email:** [hugoalexandre127@gmail.com](mailto:hugoalexandre127@gmail.com)  
