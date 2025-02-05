@@ -11,6 +11,11 @@ Currently, I'm diving deep into **gravitational waves, cosmology** and **quantum
 💼 **Interested in collaborating or discussing a research opportunity?** Reach out to me via email!  
 💬 **Got a question or just curious about something?** Feel free to ask!
 
+- 🖥️ **Skills:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50"/>  
+
 ## 🌟 Featured Projects
 
 ### **Gravitational Waves Research**
