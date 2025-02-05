@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hugo Alexandre
+# Hi there 👋, I'm
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/95de77d5-6cb4-4ec8-a56f-4cec4ca42866" width="50%">
