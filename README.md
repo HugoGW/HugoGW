@@ -1,5 +1,7 @@
 # Hi there 👋  
 
+![gravitational_waves_spiral_with_stars](https://github.com/user-attachments/assets/95de77d5-6cb4-4ec8-a56f-4cec4ca42866)
+
 ## 🚀 About Me  
 
 I'm **Hugo Alexandre**, a **25-year-old physics student from France**, currently looking for a **PhD thesis in the field of gravitational waves**.  
