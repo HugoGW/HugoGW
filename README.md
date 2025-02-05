@@ -8,7 +8,7 @@ I have a strong background in **theoretical physics, numerical physics, and fund
 ## 🎯 Interests & Goals  
 
 - 🔭 **Research Focus:** Gravitational waves (CBC, MSP...), simulations, and modeling  
-- 🖥️ **Skills:** Numerical simulations, computational physics, Python (and a bit about Fortran) 
+- 🖥️ **Skills:** Numerical simulations, computational physics, Python (and a bit about Fortran)  
 - 🌱 **Currently Improving:** Python for advanced simulations  
 - 👯 **Looking to Collaborate On:** Research projects related to gravitational waves  
 
@@ -20,3 +20,7 @@ I have a strong background in **theoretical physics, numerical physics, and fund
 ## ⚡ Fun Fact  
 
 🇫🇷 I'm **French**, and yes, I love **wine, cheese, and baguette bread**—living up to the stereotype! 🥖🍷🧀  
+
+## 📊 Profile Views  
+
+![Visitor Count](https://komarev.com/ghpvc/?username=HugoAlexandre&color=blue&style=flat)
