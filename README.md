@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Hugo Alexandre
+# Hi there 👋, I'm 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/95de77d5-6cb4-4ec8-a56f-4cec4ca42866" width="60%">
+  <img src="https://github.com/user-attachments/assets/95de77d5-6cb4-4ec8-a56f-4cec4ca42866" width="40%">
 </div>
 
 I'm a **25-year-old physics student** from **France**, currently looking for a **PhD thesis in the field of gravitational waves**.  
@@ -23,12 +23,14 @@ In my spare time, I work on **quantum physics simulations**, including the **2D 
 This project involves the use of **Finite Difference Time Domain (FDTD)** methods and is aimed at providing a better visual understanding of quantum phenomena.  
 I also create animations to help visualize the behavior of wave packets in different quantum scenarios.
 
-## 📈 My GitHub Stats
+## 📊 GitHub Stats  
 
 <div align="center">
+
 ![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoAlexandre&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=HugoAlexandre&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAlexandre&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAlexandre&layout=compact&theme=tokyonight)  
+
 </div>
 
 ## 📬 Contact
