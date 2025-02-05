@@ -9,9 +9,10 @@ I have a strong background in **theoretical physics, numerical physics, and fund
 
 - 🔭 **Research Focus:**  
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Einstein_1921_by_F_Schmutzer_-_restoration.jpg" alt="Relativity" width="50"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Feynman_Diagram_Gluon_Radiation.svg" alt="Quantum Field Theory" width="50"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/LIGO_measurement_of_gravitational_waves.svg/800px-LIGO_measurement_of_gravitational_waves.svg.png" alt="Gravitational Waves" width="50"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/CMB_Timeline75.jpg" alt="Cosmology" width="50"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Feynman_Diagram_Gluon_Radiation.svg" alt="Quantum Field Theory" width="80"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/LIGO_Laser_Interferometer.svg" alt="Gravitational Waves" width="80"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/CMB_Timeline75.jpg" alt="Cosmology" width="100"/>  
+
   **Relativity, QFT, Gravitational Waves, Cosmology**  
 
 - 🖥️ **Skills:**  
