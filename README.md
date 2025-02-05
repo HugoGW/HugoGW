@@ -8,7 +8,9 @@ I have a strong background in **theoretical physics, numerical physics, and fund
 ## 🎯 Interests & Goals  
 
 - 🔭 **Research Focus:** Gravitational waves (CBC, MSP...), simulations, and modeling  
-- 🖥️ **Skills:** Numerical simulations, computational physics, Python (and a bit about Fortran)  
+- 🖥️ **Skills:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  Numerical simulations, computational physics, and a bit about Fortran  
 - 🌱 **Currently Improving:** Python for advanced simulations  
 - 👯 **Looking to Collaborate On:** Research projects related to gravitational waves  
 
