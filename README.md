@@ -1,12 +1,12 @@
 # Hi there 👋, I'm 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/95de77d5-6cb4-4ec8-a56f-4cec4ca42866" width="40%">
+  <img src="https://github.com/user-attachments/assets/95de77d5-6cb4-4ec8-a56f-4cec4ca42866" width="50%">
 </div>
 
 I'm a **25-year-old physics student** from **France**, currently looking for a **PhD thesis in the field of gravitational waves**.  
 I specialize in **theoretical physics, numerical simulations, and computational physics**, and I'm passionate about tackling complex scientific problems.  
-Currently, I'm diving deep into **gravitational waves** and **quantum physics**, expanding my skill set and contributing to projects in the field.
+Currently, I'm diving deep into **gravitational waves, cosmology** and **quantum physics**, expanding my skill set and contributing to projects in the field.
 
 💼 **Interested in collaborating or discussing a research opportunity?** Reach out to me via email!  
 💬 **Got a question or just curious about something?** Feel free to ask!
