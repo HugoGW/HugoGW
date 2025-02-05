@@ -1,14 +1,14 @@
-# Hi there 👋, I'm 
+# Hi there 👋, I'm Hugo Alexandre
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/95de77d5-6cb4-4ec8-a56f-4cec4ca42866" width="50%">
 </div>
 
 I'm a **25-year-old physics student** from **France**, currently looking for a **PhD thesis in the field of gravitational waves**.  
-I specialize in **theoretical physics, numerical simulations, and computational physics**, and I'm passionate about tackling complex scientific problems.  
-Currently, I'm diving deep into **gravitational waves, cosmology** and **quantum physics**, expanding my skill set and contributing to projects in the field.
+I specialize in **theoretical physics, numerical simulations, and computational physics**, with strong skills in **Python**, **Matplotlib**, and **PyTorch**. I’m passionate about tackling complex scientific problems, especially in **gravitational waves, cosmology**, and **quantum physics**.  
+I use **Python** to carry out simulations, visualize data with **Matplotlib**, and apply **PyTorch** for advanced modeling.  
 
-💼 **Interested in collaborating or discussing a research opportunity?** Reach out to me via email!  
+💼 **Interested in collaborating or discussing a research opportunity?** [Reach out to me via email!](mailto:hugoalexandre127@gmail.com)  
 💬 **Got a question or just curious about something?** Feel free to ask!
 
 - 🖥️ **Skills:**  
@@ -41,7 +41,7 @@ I also create animations to help visualize the behavior of wave packets in diffe
 ## 📬 Contact
 
 - 📩 **Email:** [hugoalexandre127@gmail.com](mailto:hugoalexandre127@gmail.com)  
-- 🎥 **TikTok:** [@1minute2pħysique](https://www.tiktok.com/@1minute2pħysique) (I post physics content: equation derivations, fun facts, etc.)
+- 🎥 **TikTok:** [@1minute2pħysique](https://www.tiktok.com/@1minute2pħysique) (I post videos on astrophysics and quantum physics related to my GitHub work.)
 
 ## ⚡ Fun Fact
 
