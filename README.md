@@ -42,11 +42,8 @@ I also create animations to help visualize the behavior of wave packets in diffe
 
 - 📩 **Email:** [hugoalexandre127@gmail.com](mailto:hugoalexandre127@gmail.com)
 
-## 🎥 TikTok
-
 I also manage a TikTok account where I share videos on **astrophysics** and **quantum physics**, often linked to the projects I work on and the content I publish on my GitHub.  
-Feel free to check out my TikTok for engaging, educational, and fun videos:  
-[**@1minute2pħysique**](https://www.tiktok.com/@1minute2pħysique)
+Feel free to check out my TikTok account : [**@1minute2pħysique**](https://www.tiktok.com/@1minute2pħysique)
 
 ## ⚡ Fun Fact
 
