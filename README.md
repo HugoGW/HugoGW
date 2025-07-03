@@ -19,7 +19,7 @@ Here are some of the skills I frequently use:
 ## 🌟 Featured Projects
 
 ### **Gravitational Waves Research**
-My main focus is on **gravitational waves**, I've already studied stochastic gravitational wave backgrounds and their implications on cosmology and also the deduction of galactic models from gravitational waves detected by LISA in 2 different internships.
+My main focus is on **gravitational waves**, I've already studied stochastic gravitational wave backgrounds and their implications on cosmology and also the inference of galactic models from gravitational waves detected by LISA by using machine learning techniques in 2 different internships.
 I have worked on simulations and models related to this topic, using **Python** to simulate the data we receive from detectors like **LIGO** and **Virgo**.  
 Feel free to check out my work on my GitHub, where I regularly update my simulations and share my findings.
 
